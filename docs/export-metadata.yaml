@@ -1,0 +1,34 @@
+title: "IT-arkitektens roll i AI-eran"
+subtitle: "Strategiska vägval för offentlig sektor"
+author: "Erland Lindmark"
+language: "sv"
+difficulty: "experienced"
+audience: "IT-arkitekter i offentlig sektor"
+book_type: "textbook"
+edition: "1"
+version: "0.1"
+date: "2026-05-13"
+rights: "All rights reserved"
+publisher: ""
+cover_image: ""
+chapters:
+  - chapters/00-inledning.md
+  - chapters/01-varfor-ai-forandrar-it-arkitektens-uppdrag.md
+  - chapters/02-fran-systemdesign-till-formagedesign.md
+  - chapters/03-arkitektrollen-nar-ai-blir-medskapare.md
+  - chapters/04-strategisk-arkitekturstyrning-i-ai-eran.md
+  - chapters/05-beslutsfattande-risk-och-ansvar.md
+  - chapters/06-offentlig-sektor-styrning-juridik-och-tillit.md
+  - chapters/07-dataarkitektur-som-grund-for-ai.md
+  - chapters/08-integrationsarkitektur-for-ai-formagor.md
+  - chapters/09-plattformar-modeller-och-ekosystem.md
+  - chapters/10-sakerhetsarkitektur-for-ai.md
+  - chapters/11-fran-projekt-till-ai-formaga.md
+  - chapters/12-malarkitektur-for-ai-i-offentlig-sektor.md
+  - chapters/13-forandrad-kompetensprofil-for-it-arkitekten.md
+  - chapters/14-arkitekturprinciper-och-vagval-for-nasta-decennium.md
+exports:
+  epub: true
+  docx: true
+  pdf: true
+  markdown: true
